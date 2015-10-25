@@ -1,0 +1,2 @@
+title: Letterpress Solver
+seas-usernames: masonhale, jasonstein
