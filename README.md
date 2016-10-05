@@ -1,5 +1,4 @@
-# cs51-final-project
-A cheat program for the game letterpress, implemented in C
+A cheat program for the game Letterpress, implemented in C
 
 To compile, run 'make'.
 
